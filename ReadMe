@@ -1,0 +1,7 @@
+The dataset is stored in an Excel file, with each row representing a set of six distinct numerical values.
+
+These values are distributed across six individual columns, with each column containing one of the numbers.
+
+The initial row in the dataset corresponds to the most recently added set of six values.
+
+The aim is to predict the subsequent set of six numbers that could potentially constitute a new row in the dataset.

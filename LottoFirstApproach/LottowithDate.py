@@ -6,7 +6,7 @@ from sklearn.model_selection import train_test_split
 from sklearn.metrics import mean_squared_error
 
 # Read the data from the Excel file into a pandas DataFrame
-file_path = r"C:\Users\andre\PycharmProjects\Lotto\Repo.xlsx"
+file_path = r"/Repo.xlsx"
 data_df = pd.read_excel(file_path, sheet_name="Sheet3", header=None)
 
 # Extract the newest and oldest extraction dates
